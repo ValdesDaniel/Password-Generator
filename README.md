@@ -3,7 +3,7 @@ Password Generator Tool
 
 Create random **passwords** using the password **generator** tool.
 
-Demo: 
+Demo: https://codepen.io/danielvaldez2313/full/ZEybQXy
 
 ![image](https://user-images.githubusercontent.com/58009530/131185258-87e91686-b0e6-43fa-b08b-2e7c13b1e05a.png)
 
